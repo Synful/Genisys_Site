@@ -1,0 +1,129 @@
+.syn-li {
+    background: rgba(0, 0, 0, 0.521);
+    border-radius: 15px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.s-container {
+    height: 50px;
+    position: relative;
+}
+
+.paypal-button {
+  position: relative;
+  background-image: url("../img/logo_paypal.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  width:160px;
+  height:70px;
+  left:25%;
+  margin-top:-20px; /* this is half the height of your div*/  
+  margin-left:-70px; /*this is half of width of your div*/
+}
+.coinbase-button {
+  position: relative;
+  background-image: url("../img/logo_coinbase.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  width:160px;
+  height:70px;
+  left:45%;
+  margin-top:-20px; /* this is half the height of your div*/  
+  margin-left:-70px; /*this is half of width of your div*/
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.datalist__table th {
+    white-space: nowrap;
+  }
+  .datalist .tab-content {
+    padding: 5px 10px;
+  }
+  .datalist div.dataTables_wrapper div.dataTables_filter {
+    display: none;
+  }
+  .datalist-filter {
+    margin-bottom: 10px;
+  }
+  .datalist-filter .form-control.bootstrap-select {
+    padding: 0;
+  }
+  .datalist-filter .form-control::-moz-placeholder {
+    color: #5e6870;
+  }
+  .datalist-filter .form-control:-ms-input-placeholder {
+    color: #5e6870;
+  }
+  .datalist-filter .form-control::-webkit-input-placeholder {
+    color: #5e6870;
+  }
+  .datalist-filter .form-group {
+    margin-bottom: 7.5px;
+  }
+  .datalist-filter__detail {
+    margin-top: 10px;
+    padding: 12px 20px 4px;
+    border-radius: 4px;
+    background-color: rgba(36, 41, 44, 0.5);
+  }
+.dataTables_wrapper .pagination > li > a,
+.dataTables_wrapper .pagination > li > span {
+  padding: 2px 8px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.dataTables_wrapper .dataTables_paginate {
+  padding-top: 4px;
+}
+table.dataTable thead .sorting_desc,
+table.dataTable thead .sorting_asc {
+  color: #0064ff;
+  border-bottom-color: #0064ff !important;
+}
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_asc:after {
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
+table.dataTable thead .sorting_desc:after {
+  border-top: 4px solid #0064ff;
+}
+table.dataTable thead .sorting_asc:after {
+  border-bottom: 4px solid #0064ff;
+}
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:after {
+  position: relative;
+  bottom: auto;
+  right: auto;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  opacity: 1;
+  vertical-align: middle;
+  margin-left: 5px;
+  content: '';
+}
+table.dataTable thead > tr > th.sorting_asc,
+table.dataTable thead > tr > th.sorting_desc,
+table.dataTable thead > tr > th.sorting,
+table.dataTable thead > tr > td.sorting_asc,
+table.dataTable thead > tr > td.sorting_desc,
+table.dataTable thead > tr > td.sorting {
+  padding-right: 8px;
+}

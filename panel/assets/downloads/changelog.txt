@@ -1,0 +1,132 @@
+Welcome to the best cheat on BO2 PS3: Genisys V3.3
+
+Added features:
+
+Performance improvements
+Slight base redesign on 720p
+New engine tracers
+Running sprint meter
+Shotgun aimbot
+No flashbangs
+WireFrame weapons
+Height map camo modifications 
+Grenade renamed to Ball Buster
+New drawline math
+Flash name pregame no longer uses clantag
+Added advertise discord
+
+V3.3 fixes:
+
+Migration crash fix & re-spawn after migration fix 
+Custom camos crashing some game regions fix
+FOV on scopes fix
+
+To-do list:
+
+FOV circle on 1080p fixes
+Custom line width fixes
+
+--------------------------------------------------------------------------------
+
+Welcome to V3.2!
+
+Added features:
+
+New antifreezes, No eboot needed
+New autowall (the last of it's kind) is now perfect and needs nothing more
+Aimbot boneScan strength is now a max of 12 as per the max bones
+Removed velocity prediction
+New perfect velocity / angle / ping prediction, no configuration needed
+New custom crosshair
+New custom pitch angle for advanced anti-aim
+Hide name
+Kick client off host
+Crash server (not patched)
+Anti end-game / sl crash server while you're host (a message is sent to the entire lobby with the attackers name)
+Crash client patch will now print the name of your attacker
+Join anyone while your name is changed on BO2
+
+V3.2 fixes: 
+
+Major crashing issues resolved
+Configs not saving / loading correct anti-aim settings
+Quality of life fixes
+
+--------------------------------------------------------------------------------
+
+Welcome to V3.1!
+
+Added features:
+
+Antifreeze coupled with a new eboot (Overwite 3.0 eboot with 3.1 eboot)
+Uncapped cl_maxpackets per second = faster anti-aim, silent aim and no spread
+On that note jitter is modular now and it's x and y
+Full aim-bot logic re work + auto-bone rework 
+New improved fps saving (still recommend leaving this alone if possible) only use this if you have bad fps while running auto-wall
+Weapon chams + local player (your player chams) options 
+New player assets (fun but can't disable) meh who cares
+
+V3.1 fixes: 
+
+Fixed silent aim having issues with anti-aim 
+Anti-aim has fixes for "Unlock Angles" now this feature while enabled will lock on the nearest target letting you free look around then while disabled it will lock to your view angles 
+Fixed numerous random crashing issues such as when you leave the game with the menu open lol and or pre-game random events
+Fixed aim-key on silent aim 
+Removed ping prediction
+
+--------------------------------------------------------------------------------
+
+Welcome to V3!
+
+1080p support with esp (recommended)
+Autowall
+FPS Saving (switch between external threading and internal game threading)
+Legit Aimbot
+Fov circle for legit snap
+Snap scale 
+L1 ads scale 
+3rd person aimbot
+3rd person antiaim
+Fixes for 3rd person when spinning
+Dank Tracer esp
+Host client health bars
+Design update
+Rme server / p2p protection
+Join Party & Relay Crash protections
+Crash individual clients
+Theme customisation
+Theme colors with interpolate "fade" to the next color
+Custom esp theme colors
+Aim lock
+Crouch on damage
+Air Stuck
+Added all aim tags back "Even if head is selected, if the a enemy has the shield on their back and it's facing you, autobone finds the best bone outside the shield and will prioritize / target"
+Leaning "You can lean like on PC"
+Silent aim rework - It's now far more accurate online
+Autoshoot and silent work in kill streaks
+Fake friends list 
+Force join users 
+Bypass closed party
+Disable DLC
+Added PS button option "Executes the ps button for ps4 controllers"
+Added start up crash fixes for new accounts!!!
+Projectile fuse time esp
+Custom camos are back
+Custom weaponized camo "Can animate this with many setting configurations"
+Rgb camo
+Custom image assets "The check gets replaced with a custom image I made in photo shop, also did this for the grenade pointers, they're now outlined triangles"
+Fast reload "Cancel reload"
+Full brightpr
+Night mode
+Antiaim will disable when holding shield and if prone or mantling
+X Y antiaim options for moving, sprinting, crouching, standing and firing
+Fixed fake lag
+Weapons on the floor will animate "Dank pick ups"
+Fixed Ip addresses and names not showing in party
+Config file rework, these are now .ini files, you can create, name, save load and delete custom config files within the menu
+Host menu with lobby inf ammo and super rapid fire
+Remove Kick "removes the weapon kick animation"
+Cpu and Rsx temperature info "can toggle celsius or fahrenheit"
+Disable menu sounds 
+Disable gun sounds
+And much much more!!!

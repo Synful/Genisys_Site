@@ -1,0 +1,14 @@
+02/11/22 07:03:24 AM [Error] System.IO.IOException: Unable to write data to the transport connection: Broken pipe.
+ ---> System.Net.Sockets.SocketException (32): Broken pipe
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at SocketServer.Utils.Message.send_data()
+   at SocketServer.PS3.ViewModels.Client.Send(Object send_obj)
+02/12/22 06:24:00 AM [Error] System.IO.IOException: Unable to write data to the transport connection: Broken pipe.
+ ---> System.Net.Sockets.SocketException (32): Broken pipe
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at SocketServer.Utils.Message.send_data()
+   at SocketServer.PS3.ViewModels.Client.Send(Object send_obj)
